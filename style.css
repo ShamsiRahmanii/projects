@@ -1,0 +1,135 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.first-h {
+    text-align: center;
+    color: black;
+    font-size: 34px;
+    font-weight: 700;
+    margin-top: 2rem;
+}
+.container {
+    width: 90%;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+.header-link {
+    text-decoration: none;
+    color: rgb(83, 80, 80);
+}
+.header-list , .header-list-1 {
+    list-style-type: none;
+    margin-left: 3rem;
+}
+.header-list-1 {
+    width: auto;
+    height: auto;
+    background-color: #fff;
+    border: none;
+    padding: 0.3rem 0.7rem;
+    border-radius: 2px;
+}
+.span-icon-one {
+    margin-left: 2rem;
+}
+.p-header {
+    margin-left: 1rem;
+}
+.header {
+    width: 100%;
+    background-color: rgba(255,235,227,255);
+    height: auto;
+    border-radius: 1rem 1rem 0 0;
+    padding: 1rem 0;
+    font-size: 18px;
+    margin-top: 1rem;
+}
+.header-ul {
+    display: flex;
+    justify-content: center;
+}
+.header-bottom {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255,142,155,255);
+    padding: 1rem 0;
+    border-radius: 0 0 1rem 1rem;
+}
+.header-bottom-h {
+    color: #fff;
+    font-weight: 900;
+    font-size: 3.4rem;
+    margin-left: 4rem;
+    margin-top: 7rem;
+}
+.header-bottom-p {
+    margin-left: 4rem;
+    color: #fff;
+    margin-top: 2rem;
+    max-width: 37rem;
+    line-height: 1.5rem;
+    margin-bottom: 3.5rem;
+    font-size: 18px;
+}.header-bottom-btn {
+    text-decoration: none;
+    color: #fff;
+    padding: 1rem 3rem;
+    background-color: rgba(255,20,75,255);
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-left: 4rem;
+}
+.img-header {
+    margin: 2rem 6rem 0 6rem;
+}
+.content-h {
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 6rem;
+    margin-bottom: 3rem;
+}
+
+.content-3 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.eight-content {
+    width: 20rem;
+    height: 22rem;
+    background-color: rgba(170, 170, 170, 0.137);
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+.pes {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.eight-content-img {
+    margin-left: 3rem;
+}
+.eight-content-p , .p-one  {
+    font-weight: bold;
+    font-size: 18px;
+}
+.p-two {
+    font-weight: bold;
+    font-size: 19px;
+    color: red;
+}
+.btn-2 {
+    padding: 0.7rem 2.5rem;
+    color: #fff;
+    background-color: rgba(255,20,75,255);
+    text-decoration: none;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 3rem;
+}
